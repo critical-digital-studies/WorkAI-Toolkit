@@ -1,4 +1,4 @@
-# Work AI: A Toolkit for the Design of AI-driven Future of Work
+# WorkAI: A Toolkit for the Design of AI-driven Future of Work
 
 ![image](img/toolkit.png)
 
@@ -21,7 +21,7 @@ The toolkit is designed and can be used along a three-stage process: (1) Imagine
 <table>
 	<tr>
 		<td>
-			<img src="img/canvas_1_front.png" alt="Canvas Front: Imagine your Work AI">
+			<img src="img/canvas_1_front.png" alt="Canvas Front: Imagine your WorkAI">
 		</td>
 		<td>
 			<b>(1) Imagine:</b><br>In the Imagine step, participants are asked to imagine a WorkAI: How does a typical work day look when working with AI? What does the AI look like and how do users experience it? What does the AI do? How do users interact with the AI? How do users feel about the AI and interacting with it? To document their vision, the participants are asked to use the first page of the canvas.
@@ -29,7 +29,7 @@ The toolkit is designed and can be used along a three-stage process: (1) Imagine
 	</tr>
 	<tr>
 		<td>
-			<img src="img/card_deck.png" alt="Work AI Reflection Cards">
+			<img src="img/card_deck.png" alt="WorkAI Reflection Cards">
 		</td>
 		<td>
 			<b>(2) Reflect:</b><br>In the Reflection phase, participants are asked to use the card deck to reflect on the impact and implications of the imagined WorkAI. Each card features a concept and a short description on the front, and a series of questions on the back. These questions are designed to stimulate discussion about the importance of the specific concept in shaping interactions with the WorkAI imagined in the first phase. Specifically, the Reflect phase addresses various perspectives on working with the imagined AI, including technological, individual, social and ecological. Participants are asked to review the cards, select and prioritize the concepts they consider most important and relevant to their imagined future work experiences with AI, and discuss the questions raised on the cards.
